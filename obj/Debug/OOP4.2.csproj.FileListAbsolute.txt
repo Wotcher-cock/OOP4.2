@@ -1,0 +1,10 @@
+C:\Users\TombFuck\source\repos\OOP4.2\OOP4.2\bin\Debug\OOP4.2.exe.config
+C:\Users\TombFuck\source\repos\OOP4.2\OOP4.2\bin\Debug\OOP4.2.exe
+C:\Users\TombFuck\source\repos\OOP4.2\OOP4.2\bin\Debug\OOP4.2.pdb
+C:\Users\TombFuck\source\repos\OOP4.2\OOP4.2\obj\Debug\OOP4.2.csprojAssemblyReference.cache
+C:\Users\TombFuck\source\repos\OOP4.2\OOP4.2\obj\Debug\OOP4._2.Form1.resources
+C:\Users\TombFuck\source\repos\OOP4.2\OOP4.2\obj\Debug\OOP4._2.Properties.Resources.resources
+C:\Users\TombFuck\source\repos\OOP4.2\OOP4.2\obj\Debug\OOP4.2.csproj.GenerateResource.cache
+C:\Users\TombFuck\source\repos\OOP4.2\OOP4.2\obj\Debug\OOP4.2.csproj.CoreCompileInputs.cache
+C:\Users\TombFuck\source\repos\OOP4.2\OOP4.2\obj\Debug\OOP4.2.exe
+C:\Users\TombFuck\source\repos\OOP4.2\OOP4.2\obj\Debug\OOP4.2.pdb
